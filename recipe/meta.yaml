@@ -44,8 +44,6 @@ about:
     to noise and also facilitates the calculation of significance probabilities for
     all the elements in the final ranking.
   license_family: GPL2
-  license_file: '{{ environ["PREFIX"] }}\/lib\/R\/share\/licenses\/GPL-2'  # [unix]
-  license_file: '{{ environ["PREFIX"] }}\R\share\licenses\GPL-2'  # [win]
 extra:
    recipe-maintainers:
     - dpryan79
