@@ -14,9 +14,8 @@ Summary: Methods for aggregating ranked lists, especially lists of genes. It imp
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-robustrankaggreg-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-robustrankaggreg-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/r-robustrankaggreg-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-robustrankaggreg-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-robustrankaggreg-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-robustrankaggreg-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/r-robustrankaggreg-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/r-robustrankaggreg-feedstock)
 
 Current release info
 ====================
