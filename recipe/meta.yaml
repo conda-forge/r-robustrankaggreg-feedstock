@@ -1,4 +1,4 @@
-{% set version = "1.2" %}
+{% set version = "1.2.1" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -10,7 +10,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/RobustRankAggreg_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/RobustRankAggreg/RobustRankAggreg_{{ version }}.tar.gz
-  sha256: a40a50f1ef72b296214df038391971bb861744df681b67f94c22220a24ab89d4
+  sha256: 97908d7c635c1568d346fe44627ab35ddf68e87f02ffd33d7b6204b1fb5b565c
 
 build:
   merge_build_host: true  # [win]
