@@ -1,11 +1,11 @@
-About r-robustrankaggreg
-========================
+About r-robustrankaggreg-feedstock
+==================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-robustrankaggreg-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=RobustRankAggreg
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-robustrankaggreg-feedstock/blob/main/LICENSE.txt)
 
 Summary: Methods for aggregating ranked lists, especially lists of genes. It implements the Robust Rank Aggregation (Kolde et. al in preparation) and some other simple algorithms for the task. RRA method uses a probabilistic model for aggregation that is robust to noise and also facilitates the calculation of significance probabilities for all the elements in the final ranking.
 
